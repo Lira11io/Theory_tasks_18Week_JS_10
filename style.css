@@ -1,0 +1,12 @@
+.root {
+  margin: 15px;
+  background-color: bisque;
+}
+
+h1 {
+  text-align: center;
+}
+
+li {
+  font-size: 18px;
+}
